@@ -1,0 +1,2 @@
+# Comparative-Analysis-of-Mary-Shelley-s-Frankenstein-Editions-1818-vs-1831-Using-R-and-NLP-Techniques
+This repository contains R code for comparing the 1818 and 1831 editions of Frankenstein using NLP techniques, including text preprocessing, word tracking, TF-IDF, sentiment analysis, and bigram analysis.Visualizations highlight differences in themes and style. It also includes a general function for comparing two text versions with NLP techniques.
