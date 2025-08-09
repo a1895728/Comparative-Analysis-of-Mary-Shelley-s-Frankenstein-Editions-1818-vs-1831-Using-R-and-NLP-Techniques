@@ -1,0 +1,15 @@
+R Code Directories
+
+1. **R Code Final Report**
+Contains the final R scripts for the analysis report, including:
+
+- Data Cleaning: Preprocessing, metadata removal, lemmatization.
+- Data Analysis: Zipf’s Law, word count, TF-IDF ,Sentiment analysis, Bigram..etc.
+- Visualization: Plots for word clouds, sentiment trends, NER, etc.
+
+2. **R Code General Function**
+Contains reusable functions built from the final report code, including:
+
+- Reusable Functions: General-purpose functions for text analysis including NER.
+- R markdown file for report output.
+
